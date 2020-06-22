@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataSync_HW_71</string>
+    <string name="_morning_activity">Morning Activity</string>
+    <string name="_start_m">Запуск</string>
+    <string name="_time_m">Текущее время</string>
+    <string name="_afternoon_activity">Afternoon Activity</string>
+    <string name="_start_a">Запуск</string>
+    <string name="_time_a">Текущее время</string>
+    <string name="_evening_activity">Evening Activity</string>
+    <string name="_start_e">Запуск</string>
+    <string name="_time_e">Текущее время</string>
+</resources>
